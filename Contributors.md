@@ -6505,3 +6505,4 @@
 - [Jordan Ballinger] (https://github.com/jordballinger)
 - [Sultan Imam Muttaqin](https://github.com/kilamieaz)
 - [Stefan Clem](https://github.com/iepoch)
+- [Arijit Kar](https://github.com/arijitkar98)
